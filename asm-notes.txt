@@ -2,7 +2,7 @@
 #-------------------------------------------------------------
      'x86 ASM NOTES' 
 #-------------------------------------------------------------
-
+; written by Rick (nanotechz9l) Flores
 
 Assembly is critical because when the source code is unavailable, all you have is the machine instructions
 
